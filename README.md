@@ -1,0 +1,1 @@
+# cadfy-vision-static
