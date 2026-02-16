@@ -3508,3 +3508,7 @@ section, div {
     position: relative;         /* allows moving text relative to normal position */
     top: -4px;                  /* move text 4px upward, adjust as needed */
 }
+.logo-img {
+  height: 30px;     /* try 20px–28px */
+  width: auto;
+}
