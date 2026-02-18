@@ -3509,6 +3509,6 @@ section, div {
     top: -4px;                  /* move text 4px upward, adjust as needed */
 }
 .logo-img {
-  height: 40px;     /* try 20px–28px */
+  height: 34px;     /* try 20px–28px */
   width: auto;
 }
